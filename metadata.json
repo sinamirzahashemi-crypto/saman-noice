@@ -1,0 +1,10 @@
+{
+  "name": "AcousticShield: Industrial Noise Suppression",
+  "description": "Native Android AI-powered noise suppression and speech isolation tool for loud environments using Google Studio Sound API and NoiseSuppressor fallback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
